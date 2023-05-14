@@ -1,0 +1,6 @@
+To run Deploy model
+
+Navigate to streamlit
+and open terminal or any command prompt
+
+and run -" streamlit run main.py" command to run frontend
